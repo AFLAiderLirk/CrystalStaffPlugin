@@ -1,0 +1,10 @@
+name: CrystalStaff
+version: '1.0.0-SNAPSHOT'
+main: me.aiderlirk.crystalstaff.CrystalStaffPlugin
+api-version: '1.21.4'
+description: Magical crystal staff with custom abilities
+author: AiderLirk
+permissions:
+  crystalstaff.give:
+    description: Allows a player to obtain the Crystal Staff
+    default: op

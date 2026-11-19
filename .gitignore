@@ -1,0 +1,25 @@
+# Maven build files
+/target/
+
+# Java
+*.class
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
